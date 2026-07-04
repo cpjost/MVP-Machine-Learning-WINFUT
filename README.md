@@ -183,31 +183,7 @@ MVP-Machine-Learning-WINFUT/
 
 # Como Executar
 
-Clone o repositório:
-
-```bash
-git clone https://github.com/CarlosPeterJost/MVP-Machine-Learning-WINFUT.git
-```
-
-Acesse a pasta:
-
-```bash
-cd MVP-Machine-Learning-WINFUT
-```
-
-Instale as dependências:
-
-```bash
-pip install -r requirements.txt
-```
-
-Abra o notebook:
-
-```bash
-jupyter lab
-```
-
-Ou utilize diretamente o botão **Open in Colab** disponível no início desta página.
+ utilize diretamente o botão **Open in Colab** disponível no início desta página.
 
 ---
 
