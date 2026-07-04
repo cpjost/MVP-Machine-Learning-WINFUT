@@ -1,6 +1,6 @@
 # Classificação de Operações no Contrato Futuro do Índice Bovespa (WINFUT) utilizando Machine Learning
 
-[![Open in Colab]https://colab.research.google.com/drive/1HAx0aJuSPACW1npf0R5WChOxzUHRM47c#scrollTo=JWDDt3U8MSMy
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cpjost/MVP-Machine-Learning-WINFUT/blob/main/notebooks/MVP_ML_WINFUT.ipynb)
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
