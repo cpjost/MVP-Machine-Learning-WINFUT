@@ -122,7 +122,7 @@ Avaliação
 # Como Executar
 
 ```bash
-git clone https://github.com/SEU_USUARIO/MVP-Machine-Learning-WINFUT.git
+git clone https://github.com/cpjost/MVP-Machine-Learning-WINFUT.git
 
 cd MVP-Machine-Learning-WINFUT
 
