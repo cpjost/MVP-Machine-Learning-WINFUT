@@ -201,8 +201,3 @@ MVP-Machine-Learning-WINFUT/
 
 **Carlos Peter Jost**
 
-Engenheiro de Produção
-
-Pós-Graduando em Ciência de Dados e Analytics — PUC-Rio
-
-GitHub: https://github.com/CarlosPeterJost
