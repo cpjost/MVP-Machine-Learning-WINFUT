@@ -28,17 +28,14 @@ Todo o desenvolvimento foi realizado seguindo boas práticas de Ciência de Dado
 
 # Dataset
 
-O conjunto de dados é composto por candles de 5 minutos do contrato futuro do Índice Bovespa (WINFUT).
+| Informação | Valor                           |
+| ---------- | ------------------------------- |
+| Ativo      | WINFUT                          |
+| Timeframe  | 5 minutos                       |
+| Registros  | 56.338                          |
+| Variáveis  | 12 atributos                    |
+| Target     | Operação vencedora ou perdedora |
 
-A base contém aproximadamente:
-
-- 56 mil observações;
-- informações OHLC (Open, High, Low e Close);
-- Volume;
-- Quantidade negociada;
-- Data e hora.
-
-Após a engenharia de atributos foram criadas novas variáveis derivadas utilizadas durante o treinamento.
 
 ---
 
