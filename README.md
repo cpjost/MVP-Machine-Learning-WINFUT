@@ -183,7 +183,7 @@ MVP-Machine-Learning-WINFUT/
 
 # Como Executar
 
- utilize diretamente o botão **Open in Colab** disponível no início desta página.
+ Utilize diretamente o botão **Open in Colab** disponível no início desta página.
 
 ---
 
